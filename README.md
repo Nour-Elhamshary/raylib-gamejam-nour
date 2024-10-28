@@ -40,19 +40,17 @@ _Copyright (c) 2022-2024 Ramon Santamaria ([@raysan5](https://twitter.com/raysan
 
 -----------------------------------
 
-## $(Game Title)
+## AtomShooter (WIP Name)
 
 ![$(Game Title)](screenshots/screenshot000.png "$(Game Title)")
 
 ### Description
 
-$(Your Project Description)
+TBD
 
 ### Features
 
- - $(Project Feature 01)
- - $(Project Feature 02)
- - $(Project Feature 03)
+    -   TBD
 
 ### Controls
 
